@@ -1,0 +1,67 @@
+// Windows & messages
+GetModuleHandle
+RegisterClassEx
+CreateWindowEx
+DestroyWindow
+DefWindowProc
+GetMessage
+TranslateMessage
+DispatchMessage
+PostMessage
+PostQuitMessage
+ShowWindow
+SetWindowPos
+GetWindowRect
+GetClientRect
+GetForegroundWindow
+SetForegroundWindow
+IsWindow
+IsZoomed
+IsIconic
+IsWindowVisible
+GetWindow
+GetWindowLong
+GetClassName
+GetShellWindow
+GetWindowPlacement
+SetWindowPlacement
+EnumWindows
+MessageBox
+WM_*
+// Hotkeys
+RegisterHotKey
+UnregisterHotKey
+VIRTUAL_KEY
+// Monitors / DPI / DWM
+MonitorFromWindow
+GetMonitorInfo
+GetDpiForMonitor
+DwmGetWindowAttribute
+// Overlay painting
+SetLayeredWindowAttributes
+InvalidateRect
+BeginPaint
+EndPaint
+CreateCompatibleDC
+CreateCompatibleBitmap
+SelectObject
+DeleteObject
+DeleteDC
+BitBlt
+CreateSolidBrush
+FillRect
+CreateFont
+SetBkMode
+SetTextColor
+DrawText
+// Tray
+Shell_NotifyIcon
+LoadIcon
+IDI_APPLICATION
+CreatePopupMenu
+AppendMenu
+TrackPopupMenu
+DestroyMenu
+GetCursorPos
+MA_NOACTIVATE
+HWND_TOPMOST

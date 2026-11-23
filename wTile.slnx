@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WTile.Core/WTile.Core.csproj" />
+    <Project Path="src/WTile/WTile.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WTile.Tests/WTile.Tests.csproj" />
+  </Folder>
+</Solution>
